@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ed6c0eb90094c7042b0d5994f07085bd
+  m_SerializeEntries:
+  - m_GUID: b15a2bb7d9dba27488fe49ffde25ca1f
+    m_Address: asset.prefab.entity.unittest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fdb33ef632dfa04aa29c5027e182cad
+    m_Address: asset.prefab.basecamp.basecamptest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d88c549f0ca0d5847b6df6ca5ba776cc
+    m_Address: asset.prefab.basecamp.basecamptest1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2822afdf70a5743469767cea98c30722
+    m_Address: asset.prefab.entity.unittest1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 036110178eb7e01468bc667a0261219a
+    m_Address: asset.prefab.entity.charactertest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c7b6044e85329a42bed411e8ad8c5ff
+    m_Address: asset.prefab.entity.a0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d16324d4a19fc9c489adfba2c086fcb5
+    m_Address: asset.prefab.entity.a1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a179ea14dee54946a8d7ee864151c56
+    m_Address: asset.prefab.entity.a2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f619529a669a2a948970208cf34b9c05
+    m_Address: asset.prefab.entity.a3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11666da2f07f9c44db95540ae558f1f2
+    m_Address: asset.prefab.entity.a4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 330607560b7d89d40b2393b42baff7ec
+    m_Address: asset.prefab.entity.b0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e5baccd993dbe745866082d38810ca1
+    m_Address: asset.prefab.entity.b1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9cf03db9f24d77740b26e3ac49c554eb
+    m_Address: asset.prefab.entity.b2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ceca740a818de7240bc5a46538e19342
+    m_Address: asset.prefab.entity.b3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4bed9cd5659db14a83bf83622b04171
+    m_Address: asset.prefab.entity.b4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f1ab1be134e3064692f51747c08a190
+    m_Address: asset.prefab.entity.c0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc391a81ae6f3e0448859818aa9e05c5
+    m_Address: asset.prefab.basecamp.campa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b835c8869e1f2634b8873432e1604b0c
+    m_Address: asset.prefab.basecamp.campb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: feba89f7a83724f4a8ff92d4929059d2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0dc207863d04e8e48af5695fb8b740d6, type: 2}
+    - {fileID: 11400000, guid: 3a284e638b09c444f9905756755921eb, type: 2}
